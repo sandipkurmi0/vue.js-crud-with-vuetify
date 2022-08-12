@@ -1,4 +1,6 @@
-# vuetify-data-table-example
+# vuetify-data-table-crud-example
+
+Demo: https://vuetify-crud-app.netlify.app/
 
 ## Project setup
 ```
